@@ -62,7 +62,3 @@
 ## 各コンテンツの詳細
 
 詳細はコンテンツの種類ごとにファイルを分けて説明していく。
-
-[Item](https://www.notion.so/Item-3553fd13f1118041a502f8b8a8cc3b35?pvs=21)
-
-[Entity](https://www.notion.so/Entity-3553fd13f1118095871ade987034b860?pvs=21)
